@@ -1,3 +1,6 @@
-onething1/wxedge:latest --platform=linux/arm64
-onething1/wxedge:latest --platform=linux/amd64
-onething1/wxedge:latest --platform=linux/arm/v7
+onething1/wxedge:latest
+--platform=linux/arm64
+onething1/wxedge:latest
+--platform=linux/amd64
+onething1/wxedge:latest
+--platform=linux/arm/v7
