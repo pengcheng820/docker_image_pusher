@@ -1,5 +1,1 @@
-rabbitmq:3.6
-rabbitmq:3.8.16-management
-ffdfgdfg/nps
-ffdfgdfg/npc
-onlyoffice/documentserver:6.4.2.6
+pengcheng820/oracle:11
