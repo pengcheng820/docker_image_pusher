@@ -1,1 +1,3 @@
-redis:6.2-alpine
+mariadb
+mariadb:10.5.8
+mariadb:11.4.2
