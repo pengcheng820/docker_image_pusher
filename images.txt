@@ -1,4 +1,2 @@
 nginx:1.21.5
-#支持私库
-#支持指定架构
---platform=linux/amd64
+mysql:5.7
