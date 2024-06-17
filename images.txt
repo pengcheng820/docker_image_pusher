@@ -1,1 +1,1 @@
-pengcheng820/oracle:11
+onlyoffice/documentserver:6.4.2.6
