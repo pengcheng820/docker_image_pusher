@@ -1,1 +1,16 @@
-onething1/wxedge:latest
+#Nginx
+nginx:latest
+#Redis
+redis:latest
+#RabbitMQ
+rabbitmq:latest
+#MongoDB
+mongo::latest
+#MariaDB
+mariadb:latest
+#MySQL
+mysql:latest
+#Postgres
+postgres:latest
+#OnlyOffice
+onlyoffice/documentserver:latest
