@@ -10,6 +10,7 @@ mongo::latest
 mariadb:latest
 #MySQL
 mysql:latest
+mysql:8.0.20
 #Postgres
 postgres:latest
 #OnlyOffice
