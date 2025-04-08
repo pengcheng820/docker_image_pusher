@@ -1,1 +1,2 @@
-ghcr.io/toeverything/affine-graphql:stable
+onlyoffice/documentserver:6.4.2.6
+onlyoffice/documentserver:8.2.2.1
