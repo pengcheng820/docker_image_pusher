@@ -1,2 +1,1 @@
-onlyoffice/documentserver:6.4.2.6
-onlyoffice/documentserver:8.2.2.1
+ghcr.io/songquanpeng/one-api:v0.6.7
